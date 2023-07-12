@@ -1,9 +1,41 @@
 <h1 align="center">Hi 👋, I'm Nikil Sri Shen</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate frontend developer from India 🌍</h3>
 
-- 🌱 I’m currently learning **ReactJs , Blockchain technology**
+## 💻 Technologies & Tools
 
-- 📫 How to reach me **nikilsrishen@gmail.com**
+- 🌐 Front-end: HTML, CSS, JavaScript, React
+- 🖥️ Back-end: Node.js, Express, MongoDB
+- 🛠️ Tools: Git, VS Code, Postman
+
+## 🌱 Open Source Contributions
+
+- 🚀 [Open Source Project 1](https://github.com/project1): Contributed [your contribution] 🎉
+- 🌟 [Open Source Project 2](https://github.com/project2): Helped with [your contribution] ✨
+- 🌈 [Open Source Project 3](https://github.com/project3): Collaborated on [your contribution] 🌟
+
+## 🌟 Achievements & Certifications
+
+- 🏆 [Certification 1](https://certificate-link.com): Description of the certification.
+- 🏅 [Achievement 1](https://achievement-link.com): Description of the achievement.
+
+## 🎯 Current Focus
+
+I'm currently focusing on:
+
+- Learning new technologies, frameworks, and tools.
+- Building innovative web and mobile applications.
+- Contributing to more open-source projects.
+
+## 📫 Get in Touch
+
+Feel free to reach out to me through:
+
+- 🌐 [Personal Website](https://yourwebsite.com)
+- 📧 [Email](mailto:youremail@example.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/yourprofile)
+- 🐦 [Twitter](https://twitter.com/yourhandle)
+
+Let's connect and create something amazing together! ✨
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
