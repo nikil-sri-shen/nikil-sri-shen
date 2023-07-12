@@ -26,7 +26,7 @@ Feel free to reach out to me through:
 
 - 📧 [Email](mailto:nikilsrishen@gmail.com)
 <p align="left">
-<a href="https://linkedin.com/in/nikil sri shne" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nikil sri shne" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/Nikil Sri Shen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nikil sri shne" height="30" width="40" /></a>
 <a href="https://instagram.com/nikil._.14" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nikil._.14" height="30" width="40" /></a>
 </p>
 
