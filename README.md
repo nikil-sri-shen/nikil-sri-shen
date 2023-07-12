@@ -4,36 +4,29 @@
 ## 💻 Technologies & Tools
 
 - 🌐 Front-end: HTML, CSS, JavaScript, React
-- 🖥️ Back-end: Node.js, Express, MongoDB
-- 🛠️ Tools: Git, VS Code, Postman
-
-## 🌱 Open Source Contributions
-
-- 🚀 [Open Source Project 1](https://github.com/project1): Contributed [your contribution] 🎉
-- 🌟 [Open Source Project 2](https://github.com/project2): Helped with [your contribution] ✨
-- 🌈 [Open Source Project 3](https://github.com/project3): Collaborated on [your contribution] 🌟
+- 🖥️ Back-end: Node.js, Express, MongoDB, Solidity
+- 🛠️ Tools: Git, VS Code, Postman, Ganache
 
 ## 🌟 Achievements & Certifications
 
-- 🏆 [Certification 1](https://certificate-link.com): Description of the certification.
-- 🏅 [Achievement 1](https://achievement-link.com): Description of the achievement.
+- 🏆 [AWS cloud architecting graduate](https://drive.google.com/file/d/12Qj8jIRkWHIG8M4yL0fLbJRN2k2zUZl8/view?usp=sharing)
+- 🏆 [The complete web develpoment bootcamp 2023](https://drive.google.com/file/d/1kQwHEVhyi5iuaVDriq8ZmqAuLlsHQhW6/view?usp=sharing)
+- 🏆 [Ethereum and Solidity developer's guide](https://drive.google.com/file/d/1iFW52Q0lHUiYxvuU86USvNis58qbTHrE/view?usp=sharing)
 
 ## 🎯 Current Focus
 
 I'm currently focusing on:
 
 - Learning new technologies, frameworks, and tools.
-- Building innovative web and mobile applications.
-- Contributing to more open-source projects.
+- Building innovative web and ethereum based blockchain applications.
 
 ## 📫 Get in Touch
 
 Feel free to reach out to me through:
 
-- 🌐 [Personal Website](https://yourwebsite.com)
-- 📧 [Email](mailto:youremail@example.com)
-- 💼 [LinkedIn](https://www.linkedin.com/in/yourprofile)
-- 🐦 [Twitter](https://twitter.com/yourhandle)
+- 📧 [Email](mailto:nikilsrishen@gmail.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/nikil-sri-shen/)
+- 🐦 [Github](https://github.com/nikil-sri-shen)
 
 Let's connect and create something amazing together! ✨
 
