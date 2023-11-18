@@ -7,15 +7,15 @@
 
 - 👨‍💻 My portfolio Website [Portfolio](https://nikilsrishen.netlify.app/)
 
-- 👨‍💻 One of my project is available at [https://puc-certificate.netlify.app/](https://puc-certificate.netlify.app/)
+- 👨‍💻 One of my project is available at [PUC-Certificate](https://puc-certificate.netlify.app/)
 
-- 📝 I regularly write articles on [https://blogchaindaily.wordpress.com/](https://blogchaindaily.wordpress.com/)
+- 📝 I regularly write articles on [Blog-Chain Daily](https://blogchaindaily.wordpress.com/)
 
 - 💬 Ask me about **Blockchain, Frontend Technologies**
 
 - 📫 How to reach me **nikilsrishen@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1pC3aPrfsqHoHPdkJlXNmfItbzGtF4fSa/view?usp=sharing](https://drive.google.com/file/d/1pC3aPrfsqHoHPdkJlXNmfItbzGtF4fSa/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1pC3aPrfsqHoHPdkJlXNmfItbzGtF4fSa/view?usp=sharing)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
