@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **nikilsrishen@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1pC3aPrfsqHoHPdkJlXNmfItbzGtF4fSa/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1tJ-dsd-t8oK72vO45wJr4wEpfe1yiHQN/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
