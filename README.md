@@ -7,9 +7,9 @@
 
 - 👨‍💻 My portfolio Website [Portfolio](https://nikilsrishen.netlify.app/)
 
-- 👨‍💻 One of my project is available at [PUC-Certificate](https://puc-certificate.netlify.app/)
+- 👨‍💻 Some of my projects are available at [WikiChain](https://wikichain-nikil.netlify.app/), [PUC-Certificate](https://puc-certificate.netlify.app/), [Crypto-Watchers](https://crypto-watchers.netlify.app/)
 
-- 📝 I regularly write articles on [Blog-Chain Daily](https://blogchaindaily.wordpress.com/)
+- 📝 I regularly write blogs on [Blog-Chain Daily](https://blogchaindaily.wordpress.com/)
 
 - 💬 Ask me about **Blockchain, Frontend Technologies**
 
