@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Nikil Sri Shen</h1>
 <h3 align="center">A passionate blockchain and frontend developer from India</h3>
 
-- 🔭 I’m currently working on **Frontend and Blockchain Development**
+- 🔭 I’m currently working as **Web3 Full Stack Developer** at **CrypticOcean** technologies pvt. ltd.
 
-- 🌱 I’m currently learning **Blockchain - tech, trends and latest news.**
+- 🌱 I’m currently learning **Stacks Blockchain, Chromia Blockchain**
 
 - 👨‍💻 My portfolio Website [Portfolio](https://nikilsrishen.netlify.app/)
 
