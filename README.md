@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Stacks Blockchain, Chromia Blockchain**
 
-- 👨‍💻 My portfolio Website [Portfolio]((https://nikilsrishen.vercel.app/))
+- 👨‍💻 My portfolio Website [Portfolio](https://nikilsrishen.vercel.app/)
 
 - 👨‍💻 Some of my projects are available at [WikiChain](https://wikichain-nikil.netlify.app/), [PUC-Certificate](https://puc-certificate.netlify.app/), [Crypto-Watchers](https://crypto-watchers.netlify.app/)
 
