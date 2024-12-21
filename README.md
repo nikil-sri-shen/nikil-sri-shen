@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Nikil Sri Shen</h1>
-<h3 align="center">A passionate blockchain and frontend developer from India</h3>
+<h3 align="center">A passionate Software Engineer from India</h3>
 
-- 🔭 I’m currently working as **Web3 Full Stack Developer** at **CrypticOcean** technologies pvt. ltd.
+- 🔭 I’m currently working as **Software Engineer** at **Cisco Systems (India)** pvt. ltd.
 
-- 🌱 I’m currently learning **Stacks Blockchain, Chromia Blockchain**
+- 🌱 I’m currently learning **Java, Kotlin, Python, ReactJS**
 
 - 👨‍💻 My portfolio Website [Portfolio](https://nikilsrishen.vercel.app/)
 
