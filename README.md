@@ -15,6 +15,7 @@ I'm a passionate software engineer with a strong interest in building impactful 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=nikil-sri-shen&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
+## ⛭ Github Contributions
 ![](https://github.com/nikil-sri-shen/nikil-sri-shen/blob/output/github-snake-dark.svg)
 
 ---
