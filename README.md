@@ -15,10 +15,11 @@ I'm a passionate software engineer with a strong interest in building impactful 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=nikil-sri-shen&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
+![](https://github.com/nikil-sri-shen/nikil-sri-shen/blob/output/github-snake-dark.svg)
+
 ---
 [![](https://visitcount.itsvg.in/api?id=nikil-sri-shen&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-<div align="center">
-  ![snake gif](https://github.com/nikil-sri-shen/nikil-sri-shen/blob/output/github-snake-dark.svg)
-</div>
+
+
